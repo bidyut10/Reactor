@@ -67,13 +67,13 @@ To get started with **Reactor**, follow these steps:
    npm start
    
    # In frontend folder
-   npm start
+   npm run dev
    ```
 
 5. **Access the app in your browser at:**
 
    ```
-   http://localhost:3000
+   http://localhost:5173/
    ```
 
 ## Sample UI
